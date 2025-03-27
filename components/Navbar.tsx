@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           <Link href="/" className="flex items-center text-2xl font-bold text-blue-600 gap-3">
-            <img src="/logo.png" alt="Logo" className="h-10 w-10 mr-2" />
+            <img src="/Logo.png" alt="Logo" className="h-10 w-10 mr-2" />
             <p className="text-primary">Residencia del Hamor</p> 
             <p style={{ fontFamily: "'Grandstander Variable', cursive" }} className="text-2xl font-semibold text-blue-600 mt-2">
               Beach Front

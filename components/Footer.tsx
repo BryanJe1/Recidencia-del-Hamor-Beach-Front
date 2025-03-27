@@ -94,6 +94,8 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
           <p>&copy; {new Date().getFullYear()} Residencia del Hamor Beach Front. All rights reserved.</p>
+          <p>Bryan Jay J. Domagsang</p>
+          <p>BSIT 3</p>
         </div>
       </div>
     </footer>
